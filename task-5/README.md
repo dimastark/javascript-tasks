@@ -1,14 +1,5 @@
 # Задача «Пора на лекцию»
 
-Перед выполнением задания внимательно прочитайте:
-
-- [О всех этапах проверки задания](https://github.com/urfu-2016/guides/blob/master/workflow/overall.md)
-- [Как отправить пулл](https://github.com/urfu-2016/guides/blob/master/workflow/pull.md)
-- [Как пройти тесты](https://github.com/urfu-2016/guides/blob/master/workflow/test.md)
-- Правила оформления [javascript](https://github.com/urfu-2016/guides/blob/master/codestyle/js.md), [HTML](https://github.com/urfu-2016/guides/blob/master/codestyle/html.md) и [CSS](https://github.com/urfu-2016/guides/blob/master/codestyle/css.md) кода
-
-## Основное задание
-
 > Мы очень хотим, чтобы код вы написали сами, а не пользовались внешними библиотеками.
 
 От вечеринок и мальчишников возвращаемся в мрачные стены университета ­  
@@ -81,8 +72,6 @@ lecturer.on('slide.funny', daria, function () {
     - отписка от `slide` отписывает и от `slide`, и от `slide.funny`
 
 ## Дополнительное задание (+12 к мудрости, +2 к фокусу)
-
-> Перед выполнением внимательно прочитайте [про особенности](https://github.com/urfu-2016/guides/blob/master/workflow/extra.md)
 
 Необходимо реализовать два дополнительных метода эмиттера. Оба метода работают аналогично `on`, но обладают некоторыми особенностями.
 

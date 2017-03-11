@@ -1,16 +1,5 @@
 # Задача «Телефонная книга»
 
-Перед выполнением задания внимательно прочитайте:
-
-- [О всех этапах проверки задания](https://github.com/urfu-2016/guides/blob/master/workflow/extra.md)
-- [Как отправить пулл](https://github.com/urfu-2016/guides/blob/master/workflow/pull.md)
-- [Как пройти тесты](https://github.com/urfu-2016/guides/blob/master/workflow/test.md)
-- Правила оформления [javascript](https://github.com/urfu-2016/guides/blob/master/codestyle/js.md), [HTML](https://github.com/urfu-2016/guides/blob/master/codestyle/html.md) и [CSS](https://github.com/urfu-2016/guides/blob/master/codestyle/css.md) кода
-- [Лекцию «Типы данных»](https://urfu-2016.github.io/javascript-slides/02-types/#/)
-
-
-## Основное задание
-
 > Мы очень хотим, чтобы код вы написали сами, а не пользовались внешними библиотеками.
 
 Как известно, каждый уважающий себя разработчик должен в жизни сделать три вещи:
@@ -49,20 +38,10 @@
 
 ## Дополнительное задание
 
-> Перед выполнением внимательно прочитайте [про особенности](https://github.com/urfu-2016/guides/blob/master/workflow/extra.md)
-
 По одной добавлять записи в книгу не очень удобно, поэтому будет здорово, если вы добавите в решение импорт данных из csv. Для этого реализуйте код метода __importFromCsv__.
 
 На вход метод принимает строку в формате csv. Если запись в телефонной книги уже есть –  обновляет/дополняет её данными из csv строки. На выходе метод возвращает одно число добавленных/обновленных записей.
 
 Пример работы этого метода вы может отыскать в _index.js_ и в тестах.
-
-## Полезные ссылки
-
-- [Знакомимся с массивами](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array)
-- [Пытаемся знакомиться с регулярными выражениями](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
-- [Перебираем ключи объектов](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
-- [Метод indexOf для строк](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf)
-- [Метод slice для строк](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/slice)
 
 <img width="1279" alt="Позвони мне, позвони" src="https://cloud.githubusercontent.com/assets/4534405/19268754/abd81b8c-8fcf-11e6-9cbb-6665bf84bcfa.png">

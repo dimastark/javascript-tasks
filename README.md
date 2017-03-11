@@ -1,5 +1,5 @@
 # javascript-tasks
-Задания по javascript по курсу от Яндекса
+Задания по javascript по курсу от Яндекса ([Лекции](https://github.com/urfu-2016/javascript-slides))
 
-TODO: Добавить индекс по задачам
-
+## Правила оформления кода:
+- [javascript](https://github.com/urfu-2016/guides/blob/master/codestyle/js.md)
